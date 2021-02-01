@@ -5,7 +5,7 @@ Collection of Paid Courses.
 
 > wget https://github.com/krishna8421/CourseCollection/raw/main/Courses.zip
 
-Extract the Courses.zip File. It Contains 450 torrent files of Different Courses.
+Extract the Courses.zip File. It Contains 450+ torrent files of Different Courses.
 
 Use a torrent client to download them. Ex:- BitTorrent, Deluge, Transmission ...
 
