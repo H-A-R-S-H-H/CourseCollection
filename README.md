@@ -1,4 +1,5 @@
 # CourseCollection
+
 Collection of Paid Courses.
 
 # How to Download
@@ -12,6 +13,7 @@ Use a torrent client to download them. Ex:- BitTorrent, Deluge, Transmission ...
 It will keep updating, **ENJOY** :)
 
 # Contents List
+
 
 A-Cloud-Guru-AWS-Certified-DevOps-Engineer-Professional-2020.torrent
 
@@ -56,6 +58,8 @@ Agora-Financial-Jim-Rickards-Intelligence-Triggers.torrent
 Artificial-Intelligence-Nanodegree-and-Specializations-v1.0.0.torrent
 
 BobTabor-Thinking-Like-an-Object-Oriented-Programmer.torrent
+
+Brian-Dean-SEO-That-Works-4.0-SEO-Training-For-More-Traffic-Sales.torrent
 
 CXL-Institute-10-Courses-Bundle.torrent
 
@@ -103,7 +107,7 @@ Coursera-How-to-Make-a-Comic-Book-Project-Centered-Course.torrent
 
 Coursera-How-to-Win-a-Data-Science-Competition-Learn-from-Top-Kagglers.torrent
 
-Coursera-How-to-Win-a-Data-Science-Competition-Learn-from-Top-Kagglers.torrent.1
+Coursera-How-to-Win-a-Data-Science-Competition-Learn-from-Top-Kagglers.torrent
 
 Coursera-IT-Project-Management.torrent
 
@@ -132,6 +136,8 @@ Data-Camp-Python-Programmer-Career-Track.torrent
 Data-Camp-SeaBorn-Courses-Python.torrent
 
 EnglishClass101-Learn-English-in-the-Fastest-Easiest-and-Most-Fun-Way.torrent
+
+GMB-Hacks-2019-Rank-For-Tough-Keywords-In-30-Minutes-Or-Less.torrent
 
 How-to-Apply-Coloring-Styles-Presets-in-Lightroom-PHLEARN-PRO.torrent
 
@@ -253,6 +259,8 @@ Linkedin-Photoshop-2020-Essential-Training-Design.torrent
 
 Linkedin-Photoshop-2020-Essential-Training-The-Basics.torrent
 
+Linkedin-PowerShell-7-Essential-Training.torrent
+
 Linkedin-PyTorch-Essential-Training-Deep-Learning.torrent
 
 Linkedin-Python-Data-Analysis.torrent
@@ -309,7 +317,11 @@ Lynda-Learning-Bluebeam-2019.torrent
 
 Lynda-Microsoft-Azure-Logic-Apps-First-Look.torrent
 
+Lynda-Microsoft-Teams-Essential-Training.torrent
+
 Lynda-Photoshop-2021-Essential-Training-The-Basics.torrent
+
+Lynda-Photoshop-2021-One-on-One-Fundamentals.torrent
 
 Lynda-Photoshop-CC-2018-One-on-One_-Fundamentals.torrent
 
@@ -423,7 +435,11 @@ Mindvalley-The-Mastery-Of-Sleep-By-Michael-Breus.torrent
 
 Mindvalley-Yoga-Quest-By-Cecilia-Sardeo.torrent
 
+Motion-Design-School-Logo-Animation-in-After-Effects.torrent
+
 OREILLY-Become-More-Productive-by-Using-IPython.torrent
+
+OREILLY-Cloud-Computing-with-Python-Video-Course.torrent
 
 OREILLY-Getting-Started-with-Blockchain-and-Cryptocurrency.torrent
 
@@ -525,6 +541,8 @@ PHLEARN-Vintage-fashion.torrent
 
 PacktPub-AWS-Certified-Cloud-Practitioner_-Essentials-Course-2020-Video.torrent
 
+PacktPub-Amazon-Web-Services-AWS-Technical-Essentials-Ultimate-Training-Program.torrent
+
 PacktPub-Angular-Crash-Course-Video.torrent
 
 PacktPub-Automated-Software-Testing-with-Python-Video.torrent
@@ -574,6 +592,8 @@ PacktPub-Mobile-Game-Development-with-Unity-3D-2019-Video.torrent
 PacktPub-PHP-Crash-Course-Learn-PHP-in-90-Minutes-Video.torrent
 
 PacktPub-Project-Based-Python-Programming-For-Kids-and-Beginners-Video.torrent
+
+PacktPub-Puppet-6-Essentials-Video.torrent
 
 PacktPub-Python-for-Automating-Information-Security-Video.torrent
 
@@ -677,6 +697,8 @@ Pluralsight-Working-with-Git-Branches.torrent
 
 PronunciationWorkShop-American-Accent-Video-Training-Program.torrent
 
+Rafeh-Qazi-The-Profitable-Programmer-Course-2.0.torrent
+
 React-For-Beginners.torrent
 
 SKILLSHARE-SEO-Basics-for-Non-SEOs.torrent
@@ -684,6 +706,8 @@ SKILLSHARE-SEO-Basics-for-Non-SEOs.torrent
 Save-Time-Add-Style-–-How-to-Master-Photoshop-Actions-PHLEARN-PRO.torrent
 
 SchoolOfTikTok-TikTok-Mastery-By-Trevor-Bell.torrent
+
+SkillShare-2021-Kotlin-Crash-Course-for-Beginners.torrent
 
 SkillShare-AWS-Certified-Cloud-Practitioner-2020.torrent
 
@@ -699,6 +723,8 @@ SkillShare-Build-the-original-Instagram-with-React-Native-Firebase.torrent
 
 SkillShare-Business-and-Data-Analysis-with-SQL.torrent
 
+SkillShare-Create-Colorful-Pattern-Posters-In-Illustrator-And-Photoshop.torrent
+
 SkillShare-Create-Stunning-Artwork-Advanced-Photoshop-Manipulation.torrent
 
 SkillShare-Flutter-How-to-Build-an-Ultimate-Responsive-App.torrent
@@ -712,6 +738,10 @@ SkillShare-How-to-Study-for-Exams-An-Evidence-Based-Masterclass.torrent
 SkillShare-Learn-AWS-Step-By-Step-With-3-Projects.torrent
 
 SkillShare-Learn-Anything-With-Flashcards-The-Ultimate-Guide-To-Anki.torrent
+
+SkillShare-Learn-How-To-Create-a-Trippy-Animation-in-After-Effects.torrent
+
+SkillShare-Learn-Java-Programming-with-real-life-projects.torrent
 
 SkillShare-Learn-Serverless-and-AWS-whilst-building-a-Full-Stack-App-with-React.torrent
 
@@ -853,6 +883,12 @@ Treehouse-rest-api-basics.torrent
 
 Treehouse-spring-basics.torrent
 
+TypeScript-Pro-Take-Your-TypeScript-Expertise-To-The-Next-Level.torrent
+
+UDACITY - C++  v1.0.0.torrent
+
+UDACITY - Marketing Analytics (BETA) v1.0.0.torrent
+
 UDACITY-AI-Product-Manager-ND-v1.0.0.torrent
 
 UDACITY-Android-Developer-Nanodegree-v7.0.0.torrent
@@ -912,3 +948,4 @@ Udacity-Self-Driving-Car-Engineer-v1.0.0.torrent
 UseGolang-Learn-to-Create-Web-Applications-using-Go.torrent
 
 WesBos-Master-Gatsby-Master-Package.torrent
+
