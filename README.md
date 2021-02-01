@@ -4,13 +4,13 @@ Collection of Paid Courses.
 
 # How to Download
 
-> wget https://github.com/krishna8421/CourseCollection/raw/main/Courses.zip
+Download the file from **[here](https://github.com/krishna8421/CourseCollection/raw/main/Courses.zip)**.
 
 Extract the Courses.zip File. It Contains 450+ torrent files of Different Courses.
 
 Use a torrent client to download them. Ex:- BitTorrent, Deluge, Transmission ...
 
-It will keep updating, **ENJOY** :)
+I will keep updating for new Courses, **ENJOY**
 
 # Contents List
 
